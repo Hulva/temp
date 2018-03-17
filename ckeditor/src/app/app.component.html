@@ -1,0 +1,13 @@
+<label>Enter the number of CKEditor Instances</label>
+<input type="number" placeholder="Number of Instances..." [(ngModel)]="instanceCount" (change)="createIds()"/>
+<button type="button" (click)="createInstances()">Create Instances</button>
+<section>
+  <h2>CKEditor 5</h2>
+  <div *ngFor="let editorId of ckeditorIds">
+    <div id="my-ckeditor-instance-{{editorId}}">
+      <p><strong>Editor:</strong> {{editorId}}</p>
+    </div>
+  </div>
+
+</section>
+
