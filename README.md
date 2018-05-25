@@ -12,3 +12,5 @@ https://stackoverflow.com/questions/9046741/get-event-listeners-attached-to-node
 https://github.com/Ovilia/lipstick 用Angular5改造
 
 
+https://github.com/SourceLabOrg/kafka-webview
+
