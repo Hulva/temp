@@ -1,5 +1,7 @@
 UdDfU2fLP8Tm
 
+proxy server -r ":80@:8080" -r ":4200@:4200" -r ":21@:21" --k luva -P "127.0.0.1:33080" -C proxy.crt -K proxy.key --daemon
+
 https://github.com/yongshun/learn_netty_source_code
 https://github.com/baidu/Jprotobuf-rpc-socket
 https://github.com/tang-jie/NettyRPC
