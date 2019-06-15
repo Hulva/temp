@@ -1,4 +1,4 @@
-UdDfU2fLP8Tm
+GWCxT5rrwv52
 
 proxy server -r ":80@:8080" -r ":4200@:4200" -r ":21@:21" --k luva -P "127.0.0.1:33080" -C proxy.crt -K proxy.key --daemon
 
