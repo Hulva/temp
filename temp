@@ -9,3 +9,6 @@ https://github.com/ChinaSilence/spring-boot-starter-grpc
 https://github.com/silentbalanceyh/vertx-zero
 https://github.com/eclipse-vertx/vert.x
 https://github.com/SplashCodes/JAViewer
+
+
+set NODE_TLS_REJECT_UNAUTHORIZED=0
