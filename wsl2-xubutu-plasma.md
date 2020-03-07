@@ -4,7 +4,22 @@ https://autoize.com/xfce4-desktop-environment-and-x-server-for-ubuntu-on-wsl-2/
 
 https://blog.csdn.net/kfeng632/article/details/102856346
 
+https://x410.dev/cookbook/wsl/customizing-xfce-desktop-for-ubuntu-wsl/
+
+https://src.fedoraproject.org/repo/pkgs/gnome-globalmenu/
+
+https://www.xfce-look.org/
+
+https://github.com/numixproject/numix-icon-theme-circle
+
+https://blog.csdn.net/qq_43901693/article/details/103102528?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task
+
+https://www.jianshu.com/p/6c613e552aa8
+
 wsl --set-default-version 2
+
+lightDM
+sudo dpkg-reconfigure
 
 One more thing: you should disable AntiVirus checking of the filesystem of the Linux instance (it’s not going to find the problems anyway and slows down writes). For mine, it’s Ubuntu so it lives in a subdirectory of my home directory AppData\Local\Packages\something CanonicalGroupLtd something Ubuntu something (see how specific I can be?). Just add an exclusion to that folder so it doesn’t check files it doesn’t understand.
 
