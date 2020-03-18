@@ -1,0 +1,9 @@
+# Oh-my-zsh
+
+## Theme
+
+> powerlevel9k
+
+## Customize
+
+* set_default POWERLEVEL9K_PROMPT_ON_NEWLINE true
