@@ -12,3 +12,5 @@ https://github.com/SourceLabOrg/kafka-webview
 
 
 https://stackoverflow.com/questions/48151728/how-to-use-jedis-in-flink-map
+
+https://snailgary.org/fb4e9417eb88ee2788c49aaa2f000f22
